@@ -1,4 +1,4 @@
-package day3_variables_and_data_types;
+package day3_variables_and_data_types.primitive;
 
 public class MainPrimitive {
     public static void main(String[] args) {
